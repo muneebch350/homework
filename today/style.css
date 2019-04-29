@@ -1,0 +1,30 @@
+body {
+	background-color: DimGray;
+}
+
+.box {
+	border: 2px solid black;
+	padding: 10px;
+	border-radius: 4%;
+	margin: 100px auto;
+	color: black;
+	font-family: Burford Rustic;
+	width: 600px;
+	height: 200px;
+	background-color:LightGrey;
+}
+.p {
+	float: right;
+	position: relative;
+	width: 65%;
+	height: 200px;
+}
+.p p {
+	font-size: 21px;
+}
+.p img {
+	position: absolute;
+	left: -186px;
+	top: 17px;
+	border-radius: 8%;
+}
